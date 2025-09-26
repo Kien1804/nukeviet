@@ -11,4 +11,7 @@ Repo này bao gồm toàn bộ mã nguồn NukeViet đã được cài đặt v�
 - PHP extensions: `pdo`, `curl`, `gd`, `xml`, `openssl`, `session`, `json`, `file_uploads`  
 
 ## 🚀 Các bước cài đặt
-
+- Cấu hình thông tin website: 
+![b1](Screenshot 2025-09-26 232938.png)
+- Kết thúc cài đặt:
+![b2](Screenshot 2025-09-26 233225.png)
