@@ -12,6 +12,6 @@ Repo này bao gồm toàn bộ mã nguồn NukeViet đã được cài đặt v�
 
 ## 🚀 Các bước cài đặt
 - Cấu hình thông tin website: 
-![b1](Screenshot 2025-09-26 232938.png)
+![Screenshot 2025-09-26 232938.png](https://github.com/Kien1804/nukeviet/blob/master/Screenshot%202025-09-26%20233225.png)
 - Kết thúc cài đặt:
-![b2](Screenshot 2025-09-26 233225.png)
+![Screenshot 2025-09-26 233225.png)](https://github.com/Kien1804/nukeviet/blob/master/Screenshot%202025-09-26%20233225.png)
